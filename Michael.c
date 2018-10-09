@@ -1,3 +1,8 @@
 int main(){
-    printf("hello, from Michael");
+    int x =1;
+    while (x>3){
+        printf("hello, from Michael");
+        x++;
+    }
+
 }
